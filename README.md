@@ -28,7 +28,7 @@ Looker Studio is used for visualization of data and building dashboards. The dat
 
 <img width="765" alt="architecture" src="https://github.com/akhil-rachure/NYC-TLC-Data-Engineering-Project/assets/25721124/81b78089-1c77-45f5-bc70-3de28c99fea4">
 
-# Data Model
+## Data Model
 <img width="986" alt="Screenshot 2024-01-01 at 5 07 44 PM" src="https://github.com/akhil-rachure/NYC-TLC-Data-Engineering-Project/assets/25721124/a14840a8-98bf-4dea-b503-61f4077ed949">
 
 ## Dashboard
